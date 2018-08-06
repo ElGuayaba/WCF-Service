@@ -5,3 +5,12 @@ C:\Users\formacion\source\repos\WcfData\WcfData\obj\Debug\WcfData.csprojAssembly
 C:\Users\formacion\source\repos\WcfData\WcfData\obj\Debug\WcfData.csproj.CoreCompileInputs.cache
 C:\Users\formacion\source\repos\WcfData\WcfData\obj\Debug\WcfData.dll
 C:\Users\formacion\source\repos\WcfData\WcfData\obj\Debug\WcfData.pdb
+C:\Users\formacion\source\repos\WcfData\WcfData\bin\Debug\ServiceStack.Common.dll
+C:\Users\formacion\source\repos\WcfData\WcfData\bin\Debug\ServiceStack.Interfaces.dll
+C:\Users\formacion\source\repos\WcfData\WcfData\bin\Debug\ServiceStack.Redis.dll
+C:\Users\formacion\source\repos\WcfData\WcfData\bin\Debug\ServiceStack.Text.dll
+C:\Users\formacion\source\repos\WcfData\WcfData\bin\Debug\ServiceStack.Common.xml
+C:\Users\formacion\source\repos\WcfData\WcfData\bin\Debug\ServiceStack.Interfaces.xml
+C:\Users\formacion\source\repos\WcfData\WcfData\bin\Debug\ServiceStack.Redis.xml
+C:\Users\formacion\source\repos\WcfData\WcfData\bin\Debug\ServiceStack.Text.xml
+C:\Users\formacion\source\repos\WcfData\WcfData\obj\Debug\WcfData.csproj.CopyComplete

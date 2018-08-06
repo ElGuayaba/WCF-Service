@@ -12,7 +12,12 @@ namespace WcfData
 	public interface IService1
 	{
 		[OperationContract]
-		List<Alumno> GetData();
-
+		List<Alumno> GetAll();
+		[OperationContract]
+		Alumno Add(Alumno alumno);
+		[OperationContract]
+		Alumno GetByName(string name);
+		[OperationContract]
+		bool Delete(string name);
 	}
 }
